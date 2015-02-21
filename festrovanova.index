@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Festrovanova Bilder</title>
+		<!-- JAJA sidan var på svenska från början
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Festrovanova</p>
+			<a href="mailto:jonathan.manner@icloud.com"><p id="email">jonathan.manner@icloud.com</p></a>
+		</div>
+		<div class="left">
+		<ul>
+				<li><a href="";>Abstract</a></li>
+				<li>Cars</li>
+				<li>Nature</li>
+				<li>Portraits</li>
+				<li>Randomness (Try it!)</li>
+			</ul>
+		</div>
+		<div class="right">
+			<h4>About this site, and myself:</h4>
+			<p>My name is Jonathan, I'm 25 years old and currently live in Sweden.</p>
+			<p> Photography has been a hobby of mine for about 2 years.</p>
+			<p>The purpose of this site is mainly to gather the images I shoot, in</p>
+			<p> one place for easy viewing.</p>
+			<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10680020_10152806327881584_8824326566795382945_o.jpg"</img> PROFILE PIC OF ME HERE
+		</div>
+		<div id="footer">
+			<p>I reserve full rights on all images visible on this website. Please use them but don't forget to refer back to me if published!</p>
+		</div>
+	</body>
+</html>
